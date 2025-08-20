@@ -54,6 +54,3 @@ The app will get installed in the 'Android Studio' Emulator and start running.
 ![App Screenshot](Screenshots_and_demo-video/Screenshots/08.png)
 ![App Screenshot](Screenshots_and_demo-video/Screenshots/09.png)
 ![App Screenshot](Screenshots_and_demo-video/Screenshots/10.png)
-![App Screenshot](Screenshots_and_demo-video/Screenshots/11.png)
-![App Screenshot](Screenshots_and_demo-video/Screenshots/12.png)
-![App Screenshot](Screenshots_and_demo-video/Screenshots/13.png)
